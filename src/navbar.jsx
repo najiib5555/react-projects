@@ -3,7 +3,7 @@ import React from 'react';
 
 function Navbar(){
     return(
-        <><div>hello boys</div></>
+        <><div>hello ahmed</div></>
     )
 }
 export default Navbar
